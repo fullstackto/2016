@@ -1,0 +1,5 @@
+# Site settings
+title: Full Stack Toronto
+
+# Build settings
+markdown: kramdown
