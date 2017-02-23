@@ -68,7 +68,7 @@ p {
 
 .multi-poly {
   padding-top: 150px;
-  background: url(/static/images/multi-bg.jpg);
+  background: url(https://fsto.co/2016/static/images/multi-bg.jpg);
   text-shadow: 1px 1px 3px #565656;
   background-size: cover;
   background-attachment: fixed;
@@ -79,7 +79,7 @@ p {
       background-attachment: scroll; } }
 
 .red-poly {
-  background: url(/static/images/red-bg.jpg);
+  background: url(https://fsto.co/2016/static/images/red-bg.jpg);
   background-size: cover;
   background-attachment: fixed;
   text-shadow: 1px 1px 3px #565656;
@@ -90,7 +90,7 @@ p {
       background-attachment: scroll; } }
 
 .green-poly {
-  background: url(/static/images/green-bg.jpg);
+  background: url(https://fsto.co/2016/static/images/green-bg.jpg);
   background-size: cover;
   background-attachment: fixed;
   text-shadow: 1px 1px 3px #565656;
@@ -101,7 +101,7 @@ p {
       background-attachment: scroll; } }
 
 .blue-poly {
-  background: url(/static/images/blue-bg.jpg);
+  background: url(https://fsto.co/2016/static/images/blue-bg.jpg);
   background-size: cover;
   background-attachment: fixed;
   text-shadow: 1px 1px 3px #565656;
@@ -112,7 +112,7 @@ p {
       background-attachment: scroll; } }
 
 .purple-poly {
-  background: url(/static/images/purple-bg.jpg);
+  background: url(https://fsto.co/2016/static/images/purple-bg.jpg);
   background-size: cover;
   background-attachment: fixed;
   text-shadow: 1px 1px 3px #565656;
